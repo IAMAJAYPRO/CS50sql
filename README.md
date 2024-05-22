@@ -22,7 +22,7 @@ To get a copy of these projects up and running on your local machine, follow the
 
 Make sure you have the following installed on your machine:
 
-- Python
+- SQL
 - Any additional dependencies required by the projects
 
 ## Authors
